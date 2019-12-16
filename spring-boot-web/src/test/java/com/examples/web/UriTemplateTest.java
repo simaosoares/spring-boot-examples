@@ -1,3 +1,5 @@
+package com.examples.web;
+
 import org.junit.Test;
 import org.springframework.web.util.UriTemplate;
 
