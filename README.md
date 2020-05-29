@@ -1,10 +1,11 @@
 # Spring Boot Examples
 
-Project containing Spring Boot examples
+Project containing several Spring Boot examples.
 
 ## Module list
 
 * spring-boot-data-jpa
+* spring-boot-data-jpa-custom-repository
 * spring-boot-web
 
 ## Test
@@ -12,10 +13,10 @@ Project containing Spring Boot examples
 Just type the following maven command to test all the modules.
 
 ```
-mvn clean test
+mvn test
 ```
 
 If you don't have maven installed just use the built-in maven wrapper as follows.
 ```
-mvnw clean test
+mvnw test
 ```

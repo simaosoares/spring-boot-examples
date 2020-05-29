@@ -5,6 +5,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>spring-boot-data-jpa</module>
+		<module>spring-boot-data-jpa-custom-repository</module>
 		<module>spring-boot-web</module>
 	</modules>
     <parent>
