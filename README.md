@@ -6,6 +6,7 @@ Project containing several Spring Boot examples.
 
 * spring-boot-data-jpa
 * spring-boot-data-jpa-custom-repository
+* spring-boot-data-rest
 * spring-boot-web
 
 ## Test
